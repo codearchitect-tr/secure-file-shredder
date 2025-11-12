@@ -15,6 +15,8 @@ Secure File Shredder permanently destroys files by overwriting them multiple tim
 ### ⚠️ WARNING
 **Files shredded with this tool CANNOT be recovered. This is PERMANENT deletion.**
 
+![Visual](gorsel.png)
+
 ---
 
 ## ✨ Features
